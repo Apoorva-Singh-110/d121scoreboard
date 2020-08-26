@@ -1,0 +1,151 @@
+<html>
+<head>
+<title>Score Card</title>
+<style>
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  background-color: #ffffff;
+  column-gap: 30px;
+  grid-row-gap: 30px;
+  margin:  1em;
+  padding:  20px;
+
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  border-radius: 25px;
+  box-shadow: 5px 5px #888888;
+  padding: 30px;
+  font-size: 25px;
+  text-align: center;
+  font-family: Montserrat, sans-serif;">
+}
+.tab { 
+            display: inline-block; 
+            margin-left: 300px; 
+        }
+
+.rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #ffffff;
+  }
+
+.elementor-button {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+    background-color: #772432;
+
+    }
+.elementor-button.elementor-size-md {
+    font-size: 16px;
+    padding: 15px 30px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.elementor-button:focus, .elementor-button:hover, .elementor-button:visited 
+{
+    color: #fff;
+}
+
+p.italic {
+  font-style: italic;
+  font-size: 18px;
+}
+
+</style>
+</head>
+<body style="margin: 0; padding: 0;">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+        <tr>
+            <td style="padding: 0px 0 00px 0;">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 1px solid #cccccc; border-collapse: collapse;">
+                    <tr>
+                        <td align="center" bgcolor="#772432" style="padding: 40px 50px 30px 50px; color: #ffffff; font-size: 28px; font-weight: bold; font-family: Montserrat, sans-serif;">
+                          <a id="logo" href="https://d121toastmasters.org" title="District 121" data-height="90" data-padding="5"><img class="logo-main scale-with-grid" src="https://d121toastmasters.org/wp-content/uploads/2020/06/toastmasters-logo.png" data-retina="" data-height="90" alt="toastmasters-logo"></a>
+                    </tr>
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 1px solid #cccccc; border-collapse: collapse;">
+                    <tr>
+                        <td align="center" bgcolor="#EBEAEA" style="padding: 40px 50px 20px 50px; color: #444444; font-size: 25px; font-weight: italic; font-family: Montserrat, sans-serif;">
+                          <h2>Membership Rockstar Award</h2>
+                          <p>Division Level<p>
+                          <p class="italic">Membership Increment Calculated on the Base Membership : 20% Increment - $50 | 25% Increment - $75 | 30% Increment - $100</p>
+                          <p>Area Level<p>
+                          <p class="italic">Membership Increment Calculated on the Base Membership : 25% Increment - $25</p>
+                          <h5>Deadline - 31st October 2020</h5>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#ffffff" style="padding: 40px 30px 40px 30px;">
+                            <table border="0" cellpadding="5%" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="color: #444444; font-family: Montserrat, sans-serif; font-size: 24px; .tab { 
+            display: inline-block; 
+            margin-left: 40px; 
+        } ">
+                                      <center>
+                                        <b>New Members added till day!</b>
+                                      </center>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td width="400" valign="top">
+                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                     <br>
+                                                     </head>
+                                                       <div class="grid-container">
+                                                        <div class="grid-item">Division A <br> 11<br><h6>Base Members 260</h6></div>
+                                                        <div class="grid-item">Division B <br> 10<br><h6>Base Members 306</h6></div>
+                                                        <div class="grid-item">Division C <br> 18<br><h6>Base Members 533</h6></div>  
+                                                        <div class="grid-item">Division D <br> 18<br><h6>Base Members 294</h6></div>
+                                                        <div class="grid-item">Division E <br> 38<br><h6>Base Members 373</h6></div>
+                                                        <div class="grid-item">Division F <br> 8<br><h6>Base Members 393</h6></div>  
+                                                        <div class="grid-item">Division G <br> 16<br><h6>Base Members 291</h6></div>
+                                                        <div class="grid-item">Division H <br> 9<br><h6>Base Members 323</h6></div>
+                                                        <div class="grid-item">Division I <br> 42<br><h6>Base Members 416</h6></div>
+                                                        <div class="grid-item">Division J <br> 14<br><h6>Base Members 372</h6></div>   
+                                                      </div>
+                                                      <br>
+                                                      <br>
+                                                      </body>
+                                                    </table>
+                                                </td>
+                                                </tr>
+                                                <tr>
+                        <td bgcolor="#ffffff" style="padding: 40px 30px 40px 30px;">
+                            <table border="0" cellpadding="15%" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="color: #000000; font-family: Montserrat; font-size: 20px; text-align: center; font-weight: medium;">
+                                        <p>To get the detailed report of each Division & Area</p>
+                                    </td>
+                                    </td>
+                                </tr>
+                                <td>
+                                  <center>
+                                  <a href="http://dashboards.toastmasters.org/District.aspx?id=121" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" role="button">
+                                    <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">Click Here</span>
+                                   </span>
+                                  </a>
+                                  </center>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <tr>
+                        <td bgcolor="#772432" style="padding: 30px 30px 30px 30px;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        </table>
+                                    </td>
+                                </tr>
+</body>
+</html>
